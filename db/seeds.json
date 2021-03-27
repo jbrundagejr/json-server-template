@@ -60,5 +60,71 @@
         "intelligence": 7
       }
     }
-  ]
-}
+  ],
+   "Marvel": [
+      {
+        "id": 6,
+        "name": "Captain America",
+        "image": "https://www.clipartkey.com/mpngs/m/27-278829_captain-america-transparent-png-images-captain-america-cartoon.png",
+        "wins": 0,
+        "stats": {
+          "strength": 8,
+          "defense": 10,
+          "speed": 4,
+          "intelligence": 8
+        }
+      },
+        {
+        "id": 7,
+        "name": "Hulk",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
+        "wins": 0,
+        "stats": {
+          "strength": 10,
+          "defense": 10,
+          "speed": 6,
+          "intelligence": 4
+        }
+      },
+        {
+          "id": 8,
+          "name": "Iron Man",
+          "image": "https://www.vhv.rs/dpng/d/163-1635665_iron-man-png-iron-man-caricatura-png-avengers.png",
+          "wins": 0,
+          "stats": {
+            "strength": 3,
+            "defense": 10,
+            "speed": 7,
+            "intelligence": 10
+          }
+          }, 
+          {
+            "id": 9,
+            "name": "Spider Man",
+            "image": "https://www.wallpapertip.com/wmimgs/158-1580506_spiderman-cartoon.jpg",
+            "wins": 0,
+            "stats": {
+              "strength": 3,
+              "defense": 10,
+              "speed": 10,
+              "intelligence": 7
+            }
+            },
+            {
+            "id": 10,
+            "name": "Black Panther",
+            "image": "https://www.pngitem.com/pimgs/m/108-1088390_black-panther-png-images-transparent-background-black-panther.png",
+            "wins": 0,
+            "stats": {
+              "strength": 8,
+              "defense": 8,
+              "speed": 6,
+              "intelligence": 8
+            }
+        }
+          ]
+        }
+        
+          
+        
+
