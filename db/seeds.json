@@ -172,7 +172,7 @@
       "id": 15,
       "name": "Boba Fett",
       "image": "https://www.comingsoon.net/assets/uploads/2020/11/Boba-e1604642013130-1280x720.jpg",
-      "wins": 0,
+      "wins": 3,
       "stats": {
         "strength": 5,
         "defense": 7,
@@ -184,7 +184,7 @@
       "id": 16,
       "name": "Green Lantern",
       "image": "https://static.wikia.nocookie.net/dcanimated/images/3/3d/John_Stewart_%28JL%29.png/revision/latest?cb=20191207103819",
-      "wins": 0,
+      "wins": 1,
       "stats": {
         "strength": 8,
         "defense": 9,
@@ -196,7 +196,7 @@
       "id": 17,
       "name": "Batman",
       "image": "https://media.vanityfair.com/photos/5ef25d9d184617200a49bac5/master/w_2560%2Cc_limit/M8DBATM_WB002.jpg",
-      "wins": 0,
+      "wins": 8,
       "stats": {
         "strength": 7,
         "defense": 8,
@@ -208,7 +208,7 @@
       "id": 18,
       "name": "The Joker",
       "image": "https://i.ytimg.com/vi/votcOf5cYCM/maxresdefault.jpg",
-      "wins": 0,
+      "wins": 4,
       "stats": {
         "strength": 5,
         "defense": 8,
