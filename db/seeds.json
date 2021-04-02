@@ -1,28 +1,28 @@
 {
-  "dBZ": [
+  "fighters":[
     {
-      "id": 1,
-      "name": "Son Goku",
-      "image": "https://www.denofgeek.com/wp-content/uploads/2018/03/dragon-ball-z-super-saiyan-goku.jpg?resize=768%2C432",
-      "wins": 0,
-      "stats": {
-        "strength": 10,
-        "defense": 7,
-        "speed": 7,
-        "intelligence": 6
-      }
-    },
-    {
-      "id": 2,
-      "name": "Vegeta",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/10/majin-vegeta-fight-playable.jpg?q=50&fit=crop&w=943&h=500&dpr=1.5",
-      "wins": 0,
-      "stats": {
-        "strength": 9,
-        "defense": 7,
-        "speed": 7,
-        "intelligence": 7
-      }
+    "id": 1,
+    "name": "Son Goku",
+    "image": "https://www.denofgeek.com/wp-content/uploads/2018/03/dragon-ball-z-super-saiyan-goku.jpg?resize=768%2C432",
+    "wins": 0,
+    "stats": {
+      "strength": 10,
+      "defense": 7,
+      "speed": 7,
+      "intelligence": 6
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vegeta",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/10/majin-vegeta-fight-playable.jpg?q=50&fit=crop&w=943&h=500&dpr=1.5",
+    "wins": 0,
+    "stats": {
+      "strength": 9,
+      "defense": 7,
+      "speed": 7,
+      "intelligence": 7
+    }
     },
     {
       "id": 3,
@@ -59,72 +59,186 @@
         "speed": 7,
         "intelligence": 7
       }
+    },
+    {
+      "id": 6,
+      "name": "Captain America",
+      "image": "https://images.indianexpress.com/2021/01/chris-evans-captain-america-1200.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 8,
+        "defense": 10,
+        "speed": 4,
+        "intelligence": 8
+      }
+    },
+    {
+      "id": 7,
+      "name": "Hulk",
+      "image": "https://www.denofgeek.com/wp-content/uploads/2019/03/incredible-hulk-key-art.jpg?fit=1200%2C675",
+      "wins": 0,
+      "stats": {
+        "strength": 10,
+        "defense": 10,
+        "speed": 6,
+        "intelligence": 4
+      }
+    },
+    {
+      "id": 8,
+      "name": "Iron Man",
+      "image": "https://www.cnet.com/a/img/bZaqv6tPvT44-cop4ZL2gG3j5wE=/940x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 3,
+        "defense": 10,
+        "speed": 7,
+        "intelligence": 10
+      }
+    }, 
+    {
+      "id": 9,
+      "name": "Spider Man",
+      "image": "https://i.gadgets360cdn.com/large/spiderman_ps4_review_1536057663344.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 3,
+        "defense": 10,
+        "speed": 10,
+        "intelligence": 7
+      }
+    },
+    {
+      "id": 10,
+      "name": "Black Panther",
+      "image": "https://www.mediavillage.com/media/articles/blackpanther.jpg.1440x1000_q85_box-0%2C23%2C640%2C468_crop_detail.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 8,
+        "defense": 8,
+        "speed": 6,
+        "intelligence": 8
+      }
+    },
+    {
+      "id": 11,
+      "name": "Darth Vader",
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/12/Darth-Vader-1.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 9,
+        "defense": 8,
+        "speed": 6,
+        "intelligence": 7
+      }
+    },
+    {
+      "id": 12,
+      "name": "Yoda",
+      "image": "https://www.denofgeek.com/wp-content/uploads/2015/11/yoda-main.jpg?fit=620%2C349",
+      "wins": 0,
+      "stats": {
+        "strength": 7,
+        "defense": 10,
+        "speed": 3,
+        "intelligence": 10
+      }
+    },
+    {
+      "id": 13,
+      "name": "Luke Skywalker",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/3/2017/08/97916.jpg?quality=90&resize=620,413",
+      "wins": 0,
+      "stats": {
+        "strength": 7,
+        "defense": 8,
+        "speed": 9,
+        "intelligence": 6
+      }
+    },
+    {
+      "id": 14,
+      "name": "Ahsoka Tano",
+      "image": "https://www.denofgeek.com/wp-content/uploads/2020/05/star-wars-ahsoka-tano.png?fit=1280%2C720",
+      "wins": 0,
+      "stats": {
+        "strength": 8,
+        "defense": 8,
+        "speed": 7,
+        "intelligence": 7
+      }
+    },
+    {
+      "id": 15,
+      "name": "Boba Fett",
+      "image": "https://www.comingsoon.net/assets/uploads/2020/11/Boba-e1604642013130-1280x720.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 5,
+        "defense": 7,
+        "speed": 9,
+        "intelligence": 9
+      }
+    },
+    {
+      "id": 16,
+      "name": "Green Lantern",
+      "image": "https://static.wikia.nocookie.net/dcanimated/images/3/3d/John_Stewart_%28JL%29.png/revision/latest?cb=20191207103819",
+      "wins": 0,
+      "stats": {
+        "strength": 8,
+        "defense": 9,
+        "speed": 7,
+        "intelligence": 6
+      }
+    },
+    {
+      "id": 17,
+      "name": "Batman",
+      "image": "https://media.vanityfair.com/photos/5ef25d9d184617200a49bac5/master/w_2560%2Cc_limit/M8DBATM_WB002.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 7,
+        "defense": 8,
+        "speed": 6,
+        "intelligence": 9
+      }
+    },
+    {
+      "id": 18,
+      "name": "The Joker",
+      "image": "https://i.ytimg.com/vi/votcOf5cYCM/maxresdefault.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 5,
+        "defense": 8,
+        "speed": 7,
+        "intelligence": 10
+      }
+    },
+    {
+      "id": 19,
+      "name": "Wonder Woman",
+      "image": "https://static.wikia.nocookie.net/dccu/images/6/6f/JL_Wonder_Woman.jpg/revision/latest?cb=20160914003449",
+      "wins": 0,
+      "stats": {
+        "strength": 8,
+        "defense": 8,
+        "speed": 8,
+        "intelligence": 6
+      }
+    },
+    {
+      "id": 20,
+      "name": "Poison Ivy",
+      "image": "https://i.pinimg.com/originals/f6/6b/72/f66b72b501ac487cc10aea68609df376.jpg",
+      "wins": 0,
+      "stats": {
+        "strength": 6,
+        "defense": 10,
+        "speed": 5,
+        "intelligence": 9
+      }
     }
-  ],
-   "Marvel": [
-      {
-        "id": 6,
-        "name": "Captain America",
-        "image": "https://www.clipartkey.com/mpngs/m/27-278829_captain-america-transparent-png-images-captain-america-cartoon.png",
-        "wins": 0,
-        "stats": {
-          "strength": 8,
-          "defense": 10,
-          "speed": 4,
-          "intelligence": 8
-        }
-      },
-        {
-        "id": 7,
-        "name": "Hulk",
-        "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
-        "wins": 0,
-        "stats": {
-          "strength": 10,
-          "defense": 10,
-          "speed": 6,
-          "intelligence": 4
-        }
-      },
-        {
-          "id": 8,
-          "name": "Iron Man",
-          "image": "https://www.vhv.rs/dpng/d/163-1635665_iron-man-png-iron-man-caricatura-png-avengers.png",
-          "wins": 0,
-          "stats": {
-            "strength": 3,
-            "defense": 10,
-            "speed": 7,
-            "intelligence": 10
-          }
-          }, 
-          {
-            "id": 9,
-            "name": "Spider Man",
-            "image": "https://www.wallpapertip.com/wmimgs/158-1580506_spiderman-cartoon.jpg",
-            "wins": 0,
-            "stats": {
-              "strength": 3,
-              "defense": 10,
-              "speed": 10,
-              "intelligence": 7
-            }
-            },
-            {
-            "id": 10,
-            "name": "Black Panther",
-            "image": "https://www.pngitem.com/pimgs/m/108-1088390_black-panther-png-images-transparent-background-black-panther.png",
-            "wins": 0,
-            "stats": {
-              "strength": 8,
-              "defense": 8,
-              "speed": 6,
-              "intelligence": 8
-            }
-        }
-          ]
-        }
-        
-          
-        
-
+  ]
+}
