@@ -16,7 +16,7 @@
       "id": 2,
       "name": "Vegeta",
       "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2019/10/majin-vegeta-fight-playable.jpg?q=50&fit=crop&w=943&h=500&dpr=1.5",
-      "wins": 2,
+      "wins": 3,
       "stats": {
         "strength": 9,
         "defense": 7,
@@ -28,7 +28,7 @@
       "id": 3,
       "name": "Beerus",
       "image": "https://www.otakuani.com/wp-content/uploads/2018/05/3990824-battle_013.jpg",
-      "wins": 2,
+      "wins": 3,
       "stats": {
         "strength": 8,
         "defense": 8,
@@ -40,7 +40,7 @@
       "id": 4,
       "name": "Cooler",
       "image": "https://static.wikia.nocookie.net/dragonball/images/2/24/Cooler%27s_final_form.jpg/revision/latest?cb=20090604212500",
-      "wins": 0,
+      "wins": 1,
       "stats": {
         "strength": 7,
         "defense": 7,
@@ -52,7 +52,7 @@
       "id": 5,
       "name": "Goku Black",
       "image": "https://supersaiyanshop.b-cdn.net/wp-content/uploads/2020/08/Who_Is_Black_Goku_Everything_You_Need_to_Know_About_Him-1024x575.jpg",
-      "wins": 2,
+      "wins": 3,
       "stats": {
         "strength": 10,
         "defense": 6,
@@ -64,7 +64,7 @@
       "id": 6,
       "name": "Captain America",
       "image": "https://www.clipartkey.com/mpngs/m/27-278829_captain-america-transparent-png-images-captain-america-cartoon.png",
-      "wins": 7,
+      "wins": 11,
       "stats": {
         "strength": 8,
         "defense": 10,
@@ -76,7 +76,7 @@
       "id": 7,
       "name": "Hulk",
       "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png",
-      "wins": 1,
+      "wins": 10,
       "stats": {
         "strength": 10,
         "defense": 10,
@@ -88,7 +88,7 @@
       "id": 8,
       "name": "Iron Man",
       "image": "https://www.vhv.rs/dpng/d/163-1635665_iron-man-png-iron-man-caricatura-png-avengers.png",
-      "wins": 2,
+      "wins": 6,
       "stats": {
         "strength": 3,
         "defense": 10,
@@ -112,7 +112,7 @@
       "id": 10,
       "name": "Black Panther",
       "image": "https://www.pngitem.com/pimgs/m/108-1088390_black-panther-png-images-transparent-background-black-panther.png",
-      "wins": 0,
+      "wins": 11,
       "stats": {
         "strength": 8,
         "defense": 8,
@@ -124,7 +124,7 @@
       "id": 11,
       "name": "Darth Vader",
       "image": "https://www.sideshow.com/storage/product-images/1000763/darth-vader_star-wars_silo.png",
-      "wins": 0,
+      "wins": 1,
       "stats": {
         "strength": 9,
         "defense": 8,
@@ -148,7 +148,7 @@
       "id": 13,
       "name": "Luke Skywalker",
       "image": "https://images.immediate.co.uk/production/volatile/sites/3/2017/08/97916.jpg?quality=90&resize=620,413",
-      "wins": 7,
+      "wins": 14,
       "stats": {
         "strength": 7,
         "defense": 8,
@@ -220,7 +220,7 @@
       "id": 19,
       "name": "Wonder Woman",
       "image": "https://static.wikia.nocookie.net/dccu/images/6/6f/JL_Wonder_Woman.jpg/revision/latest?cb=20160914003449",
-      "wins": 2,
+      "wins": 4,
       "stats": {
         "strength": 8,
         "defense": 8,
@@ -232,7 +232,7 @@
       "id": 20,
       "name": "Poison Ivy",
       "image": "https://i.pinimg.com/originals/f6/6b/72/f66b72b501ac487cc10aea68609df376.jpg",
-      "wins": 0,
+      "wins": 11,
       "stats": {
         "strength": 6,
         "defense": 10,
